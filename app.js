@@ -23,7 +23,7 @@ colorSelect.addEventListener('click', () => {
 });
 
 about.addEventListener('click', () => {
-	alert("Insert info on how to use Pixel Paint here");
+	alert("Input desired color (color name, hex, or rgb) and and click anywhere in the grid to paint in your desired color!");
 });
 
 
